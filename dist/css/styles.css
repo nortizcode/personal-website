@@ -11053,8 +11053,8 @@ body {
 
 
 
-	min-height: 200px;
-	width: 50em;
+	min-height: 300px;
+	width: 60em;
 	margin: 50px auto;
 	background: white;
 	border-radius: 5px;
@@ -11065,6 +11065,7 @@ body {
 	background: #EEF2F7;
 }
 
-h1{
+.project-head{
+	margin-top: 1em;
 	text-align: center;
 }
