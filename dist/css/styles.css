@@ -11079,3 +11079,11 @@ body {
 		6px 5px 1px #ccc, 5px 6px 1px #eee,
 		7px 6px 1px #ccc;
 }
+
+#projects {
+	margin-top: 60px;
+	border: solid 4px #64a19d;
+	border-radius: 20px;
+	background-color: dimgrey;
+
+}
