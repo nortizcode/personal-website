@@ -11081,9 +11081,43 @@ body {
 }
 
 #projects {
-	margin-top: 60px;
+	margin-top: 55px;
 	border: solid 4px #64a19d;
 	border-radius: 20px;
 	background-color: dimgrey;
 
 }
+
+.card-text{
+	text-align: center;
+}
+
+.card-title{
+	text-align: center;
+	color: #64a19d;
+}
+
+.card-footer{
+	text-align: center;
+}
+
+#project-title{
+	text-align: center;
+	color: black;
+	text-shadow: 2px 2px 4px #64a19d;
+	font-size: 60px;
+}
+
+#work{
+	position: relative;
+	width: 100%;
+	height: auto;
+	min-height: 35rem;
+	padding: 10rem 0;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/fog-1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+
