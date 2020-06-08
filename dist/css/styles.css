@@ -11085,7 +11085,6 @@ body {
 	border: solid 4px #64a19d;
 	border-radius: 20px;
 	background-color: dimgrey;
-
 }
 
 .card-text{
@@ -11101,7 +11100,7 @@ body {
 	text-align: center;
 }
 
-#project-title{
+.project-title{
 	text-align: center;
 	color: black;
 	text-shadow: 2px 2px 4px #64a19d;
@@ -11121,3 +11120,10 @@ body {
 	background-size: cover;
 }
 
+.skills .col-md-3 {
+	border-radius: 10px;
+	border:solid black 3px;
+	text-align: center;
+	background-color: rgb(39,44,49);
+	color: floralwhite;
+}
